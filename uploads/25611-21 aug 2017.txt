@@ -1,0 +1,16 @@
+does it detect if i have an account already?
+
+beneficiary details a must? (after saying confirm quote)
+
+beneficiary details dont have a start (to show its mandate)
+
+.....2nd beneficiary a must??
+
+relationships of beneficiary does'nt have "other"
+
+after application submit success page, i'm logged out...
+
+...........................
+
+place of death needs - need guide as place holder - (Buhera, Zimbabwe)
+

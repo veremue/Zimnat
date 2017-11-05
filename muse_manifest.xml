@@ -1,0 +1,292 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="zimnatdiaspora.com" resolutions="1x" timestamp="1501509766299">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="436946374" ref="successful-submit-page:contact:about-us:services:index:our-people"/>
+    <file name="nomq_preview_master_a-master.css" crc="121218039" ref="successful-submit-page:contact:about-us:services:index:our-people"/>
+    <file name="successful-submit-page.css" crc="3898629177" ref="successful-submit-page"/>
+    <file name="nomq_successful-submit-page.css" crc="4114587782" ref="successful-submit-page"/>
+    <file name="contact.css" crc="329127109" ref="contact"/>
+    <file name="nomq_contact.css" crc="4236518338" ref="contact"/>
+    <file name="about-us.css" crc="3893048038" ref="about-us"/>
+    <file name="nomq_about-us.css" crc="3901696753" ref="about-us"/>
+    <file name="services.css" crc="506329118" ref="services"/>
+    <file name="nomq_services.css" crc="3889996181" ref="services"/>
+    <file name="index.css" crc="4106392337" ref="index"/>
+    <file name="nomq_index.css" crc="525589333" ref="index"/>
+    <file name="our-people.css" crc="3834943666" ref="our-people"/>
+    <file name="nomq_our-people.css" crc="113255652" ref="our-people"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about-us:our-people:contact:services:successful-submit-page"/>
+    <file name="museutils.js" crc="4232573551" ref="index:about-us:our-people:contact:services:successful-submit-page"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about-us:our-people:contact:services:successful-submit-page"/>
+    <file name="museconfig.js" crc="4152223963" ref="index:about-us:our-people:contact:services:successful-submit-page"/>
+    <file name="jquery.musemenu.js" crc="38860304" ref="index:about-us:our-people:contact:services:successful-submit-page"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:about-us:our-people:contact:services:successful-submit-page"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index:our-people"/>
+    <file name="webpro.js" crc="3770351119" ref="index:about-us:our-people:contact:services:successful-submit-page"/>
+    <file name="form_check.php" crc="3841221102" ref="index"/>
+    <file name="form_throttle.php" crc="4048049783" ref="index"/>
+    <file name="form_process.php" crc="3899230280" ref="index"/>
+    <file name="form-u684.php" crc="221113457" ref="index"/>
+    <file name="musewpdisclosure.js" crc="347705465" ref="index:about-us:our-people:contact:services:successful-submit-page"/>
+    <file name="jquery.scrolleffects.js" crc="146279342" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about-us:our-people:contact:services:successful-submit-page"/>
+    <file name="jquery.museresponsive.js" crc="433634197" ref="index:about-us:our-people:contact:services:successful-submit-page"/>
+    <file name="require.js" crc="4234670167" ref="index:about-us:our-people:contact:services:successful-submit-page"/>
+    <file name="form-u1035.php" crc="23583303" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="zimnat logo.png" crc="7396724" seo="true" ref="index:about-us:our-people:contact:services:successful-submit-page">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="our-people" alt=""/>
+      <caption webpage="our-people" alt=""/>
+      <caption webpage="our-people" alt=""/>
+      <caption webpage="our-people" alt=""/>
+      <caption webpage="our-people" alt=""/>
+      <caption webpage="our-people" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="successful-submit-page" alt=""/>
+      <caption webpage="successful-submit-page" alt=""/>
+      <caption webpage="successful-submit-page" alt=""/>
+      <caption webpage="successful-submit-page" alt=""/>
+      <caption webpage="successful-submit-page" alt=""/>
+      <caption webpage="successful-submit-page" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="home bg.jpg" crc="19827477" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:about-us:our-people:contact:services:successful-submit-page"/>
+    <file name="icon2.png" crc="4215418651" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon1.png" crc="347089268" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="employees pic.png" crc="4042478784" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="awards directors.png" crc="474694895" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="slider3.jpg" crc="4118257551" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1.jpg" crc="4217712785" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4.jpg" crc="388476929" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3.jpg" crc="454864819" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="home bg_secondary.jpg" crc="4138794977" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="slider3-u529-fr.jpg" crc="520506105" ref="index"/>
+    <file name="slider3-u529-fr2.jpg" crc="3821341726" ref="index"/>
+    <file name="home bg-u422-fr.jpg" crc="4083455562" ref="index"/>
+    <file name="slider3-u529-fr3.jpg" crc="4182642684" ref="index"/>
+    <file name="1-u546-fr.jpg" crc="75964610" ref="index"/>
+    <file name="4-u560-fr.jpg" crc="4001867704" ref="index"/>
+    <file name="3-u563-fr.jpg" crc="386888319" ref="index"/>
+    <file name="home bg_secondary-u661-fr.jpg" crc="125179146" ref="index"/>
+    <file name="home bg-u422-fr2.jpg" crc="123323817" ref="index"/>
+    <file name="slider3-u529-fr4.jpg" crc="3791430667" ref="index"/>
+    <file name="1-u546-fr2.jpg" crc="4208403504" ref="index"/>
+    <file name="4-u560-fr2.jpg" crc="45840464" ref="index"/>
+    <file name="3-u563-fr2.jpg" crc="4181832531" ref="index"/>
+    <file name="home bg_secondary-u661-fr2.jpg" crc="287140747" ref="index"/>
+    <file name="home bg-u422-fr3.jpg" crc="4067109343" ref="index"/>
+    <file name="slider3-u529-fr5.jpg" crc="4235479729" ref="index"/>
+    <file name="1-u546-fr3.jpg" crc="3759975180" ref="index"/>
+    <file name="4-u560-fr3.jpg" crc="187649167" ref="index"/>
+    <file name="3-u563-fr3.jpg" crc="394826641" ref="index"/>
+    <file name="home bg_secondary-u661-fr3.jpg" crc="3816446115" ref="index"/>
+    <file name="zimnat.png" crc="140035464" seo="true" ref="about-us">
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="sanlam-facts.png" crc="240217722" seo="true" ref="about-us">
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="zimnat514x296.png" crc="3977806194" seo="true" ref="about-us">
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="sanlam-facts518x333.png" crc="86698378" seo="true" ref="about-us">
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="zimnat414x238.png" crc="158327259" seo="true" ref="about-us">
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="sanlam-facts441x284.png" crc="111505308" seo="true" ref="about-us">
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="zimnat303x174.png" crc="217266580" seo="true" ref="about-us">
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="sanlam-facts310x199.png" crc="4124890552" seo="true" ref="about-us">
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="munya.jpg" crc="167890588" ref="our-people">
+      <caption webpage="our-people" alt=""/>
+      <caption webpage="our-people" alt=""/>
+    </file>
+    <file name="stanley.jpg" crc="3883016275" ref="our-people">
+      <caption webpage="our-people" alt=""/>
+      <caption webpage="our-people" alt=""/>
+    </file>
+    <file name="munya-u977-fr.jpg" crc="4185969887" ref="our-people"/>
+    <file name="stanley-u1003-fr.jpg" crc="128325355" ref="our-people"/>
+    <file name="munya-u977-fr2.jpg" crc="4143637605" ref="our-people"/>
+    <file name="stanley-u1003-fr2.jpg" crc="105010576" ref="our-people"/>
+    <file name="munya-u977-fr3.jpg" crc="4280419516" ref="our-people"/>
+    <file name="stanley-u1003-fr3.jpg" crc="4273085569" ref="our-people"/>
+    <file name="munya-u977-fr4.jpg" crc="4273158668" ref="our-people"/>
+    <file name="stanley-u1003-fr4.jpg" crc="3948412534" ref="our-people"/>
+    <file name="motor-crop-u1798.png" crc="4261567028" seo="true" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="home-crop-u1811.png" crc="443392694" seo="true" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="travel-crop-u1821.png" crc="4180987299" seo="true" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="medical-crop-u1831.png" crc="35510441" seo="true" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="funeral-crop-u1841.png" crc="4262928775" seo="true" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="motor-crop-u17982.png" crc="112901806" seo="true" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="home-crop-u18112.png" crc="524886660" seo="true" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="travel-crop-u18212.png" crc="4013963991" seo="true" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="medical-crop-u18312.png" crc="3990516672" seo="true" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="funeral-crop-u18412.png" crc="3760567412" seo="true" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="motor-crop-u17983.png" crc="452916142" seo="true" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="home-crop-u18113.png" crc="515506256" seo="true" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="travel-crop-u18213.png" crc="3946028525" seo="true" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="medical-crop-u18313.png" crc="3997264272" seo="true" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="funeral-crop-u18413.png" crc="324086773" seo="true" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="motor-crop-u17984.png" crc="337876827" seo="true" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="home-crop-u18114.png" crc="3910212767" seo="true" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="travel-crop-u18214.png" crc="12264881" seo="true" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="medical-crop-u18314.png" crc="278404912" seo="true" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="funeral-crop-u18414.png" crc="63175216" seo="true" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="motor-crop-u17985.png" crc="527927694" seo="true" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="home-crop-u18115.png" crc="4193651644" seo="true" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="travel-crop-u18215.png" crc="4000369997" seo="true" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="medical-crop-u18315.png" crc="22144717" seo="true" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="funeral-crop-u18415.png" crc="277700704" seo="true" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="motor-crop-u17986.png" crc="354632899" seo="true" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="home-crop-u18116.png" crc="3848359148" seo="true" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="travel-crop-u18216.png" crc="3990570987" seo="true" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="medical-crop-u18316.png" crc="4145221705" seo="true" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="funeral-crop-u18416.png" crc="175482040" seo="true" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+  </folder>
+  <file name="index.php" crc="3807917883" seo="true" mt="1501251841942" redirect="true"/>
+  <file name="about-us.php" crc="3851020825" seo="true" mt="1501251841942" redirect="true"/>
+  <file name="our-people.php" crc="357415806" seo="true" mt="1501251841942" redirect="true"/>
+  <file name="contact.php" crc="204903109" seo="true" mt="1501251841942" redirect="true"/>
+  <file name="services.php" crc="69331890" seo="true" mt="1501251841942" redirect="true"/>
+  <file name="successful-submit-page.php" crc="4107525020" seo="true" mt="1501509220435" redirect="true"/>
+</manifest>
